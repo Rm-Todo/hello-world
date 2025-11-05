@@ -4,4 +4,7 @@ blue
 yellow
 black
 pink
+brown
+orange
+
 
