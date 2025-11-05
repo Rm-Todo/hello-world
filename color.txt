@@ -3,5 +3,5 @@ red
 blue
 black
 pink
-goodbed
-bad
+good
+ba
